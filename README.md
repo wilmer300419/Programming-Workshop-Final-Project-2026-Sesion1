@@ -61,9 +61,7 @@ The repository structure may evolve as the project progresses. The following str
 Programming-Workshop/
 │
 ├── src/                # Project source code
-├── docs/               # Project documentation
 ├── tests/              # Tests and validation
-├── assets/             # Images and other project resources
 ├── README.md           # Project information and documentation
 └── .gitignore          # Files and folders excluded from version control
 ```
