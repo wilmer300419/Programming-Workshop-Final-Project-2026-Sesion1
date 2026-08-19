@@ -12,6 +12,7 @@
 * **Esteban Salvador Guzman**
 * **Santiago Santana Nieto**
 * **Wilmer Andrés Capera Hernández**
+* **Jairo Esteban Ojeda Ramirez**
 
 ---
 
@@ -105,6 +106,7 @@ The repository will serve as the central space for the project's development, ve
 **Esteban Salvador Guzman**
 **Santiago Santana Nieto**
 **Wilmer Andrés Capera Hernández**
+**Jairo Esteban Ojeda Ramirez**
 
 **Software Engineering**
 **Universidad Manuela Beltrán**
